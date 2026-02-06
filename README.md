@@ -46,24 +46,40 @@ pip install pandas numpy scikit-learn
 4.Open the Jupyter Notebook and run all cells:
 jupyter notebook
 
+
 📊 Dataset
+
 The dataset contains basic health parameters required for prediction.
+
 Data is used only for educational purposes.
 
 📈 Learning Outcomes
+
 Through this project, I learned:
+
 Basics of data preprocessing
+
 Handling datasets using Pandas
+
 Training and evaluating machine learning models
+
 Applying ML concepts to real-world problems
 
 🚀 Future Improvements
+
 Improve model accuracy
+
 Add a user-friendly web interface
+
 Use advanced ML algorithms
+
 Deploy the model as a web application
 
 👤 Author
+
 Mohammed Zabiulla
 BCA Student | Aspiring Software Developer
 GitHub: https://github.com/zabytech
+
+
+ 
